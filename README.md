@@ -4,17 +4,12 @@ A simple **Rock, Paper, Scissors** game built using HTML, CSS, and JavaScript. T
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
 
-
-## Demo
-
-You can play the game live here: [Link to GitHub Pages or live demo](#)
 
 ## Features
 
